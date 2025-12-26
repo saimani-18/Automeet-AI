@@ -9,14 +9,7 @@
 
 ## 🌟 Why AutoMeet?
 
-Modern teams lose **critical decisions, tasks, and context** after meetings.
-AutoMeet ensures **nothing gets forgotten**.
-
-✔ No manual note-taking
-✔ No missed action items
-✔ No dependency on recordings
-✔ Fully automated follow-ups
-✔ Works across meetings, time, and teams
+Modern teams often lose important decisions, tasks, and context once a meeting ends. AutoMeet solves this by automatically capturing conversations through live captions and turning them into clear summaries, actionable tasks, and searchable knowledge—without manual note-taking or audio recordings. With built-in follow-ups and smart automation, AutoMeet ensures every meeting leads to clarity, accountability, and action across teams and time.
 
 ---
 
@@ -290,30 +283,19 @@ Use it for:
 | **Integrations**| Google Calendar API, Email APIs |
 
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 
-**Sai Manikanta Patro**
-B.Tech CSE | B.Sc Data Science
-AI • GenAI • RAG • Systems Engineering
+**Sai Manikanta Patro** - B.Tech CSE, KIIT | B.S Data Science, IITM
+
+**Hruday Vikas Arikathota** - B.Tech CSE, KIIT
+
+**Shreya Bangia** - B.Tech CSE, KIIT
+
+**Aishwarya Naveen** - B.Tech CSE, KIIT
+
+**Saswat Mohanty** - B.Tech CSE, KIIT
 
 > *“Meetings shouldn’t end with confusion. They should end with clarity.”*
 
 ---
 
-## ⭐ Final Note
-
-If you found this project interesting:
-**Star ⭐ the repo, fork it, or build on top of it.**
-AutoMeet AI is built to scale — both technically and impact-wise.
-
----
-
-If you want next:
-
-* 🔥 **Enterprise-grade README (startup pitch style)**
-* 📄 **Research-paper-ready system description**
-* 🎯 **Recruiter-optimized project explanation**
-* 🧠 **Architecture diagram prompts**
-* 📦 **Deployment & setup README**
-
-Just tell me.
